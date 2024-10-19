@@ -9,6 +9,10 @@ in a few hours, which was quite satisfying. The game is currently in a
 became too large and disorganized for me to handle without outside tools,
 and it fell by the wayside.
 
+Txt containing all valid wordle words provided here: https://gist.github.com/dracos/dd0668f281e685bad51479e5acaadb93
+
+## To Do:
+
 - [x] Find a random word in the bank
   - [x] Count entries in list
   - [x] Generate random int in range of given entries
